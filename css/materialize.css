@@ -3,6 +3,10 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+
+ @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -2225,7 +2229,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family: 'Questrial', sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
